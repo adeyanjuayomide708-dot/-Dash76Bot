@@ -1,0 +1,4 @@
+my-telegram-bot/
+├── main.py          # Your bot's main Python code
+├── requirements.txt # List of Python packages needed
+└── Procfile         # Tells Railway how to start your bot
